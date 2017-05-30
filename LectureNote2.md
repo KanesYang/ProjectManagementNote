@@ -47,7 +47,6 @@ Mission is distribute several missions(which  always different task) to differen
 + Projects may be sub-optimized due to varying interest or commitment across functional boundaries.
 
 
-
 ---
 
 ## Project Organizations##
@@ -149,4 +148,113 @@ even small increase of group can increase the difficulty of communication.
 and longer distance communication often cause error message and deviation.
 
 like the passing voice game.
+
+
+
+---
+
+## Organizational Culture
+
+Each organization develops its own unique outlook, operating policies, procedures, patterns of thinking, attitudes, norms of behavior. They are often as unique as a fingerprint. No two organizations no matter how similar in size, products, operating environment, profitability, ... are the same.
+
+
+
+Defined as:The solution to external and internal problems that has worked consistently for a group and that is therefore taught to new members as the correct way to perceive, think about and feel in relation to these problems
+
+
+
+Eg：Monkey and Banana Story
+
+---
+
+## Key factors that affect the development of a culture
+
+
+
++ technology 
++ environment 
++ geographical location
++ reward systems
++ rules and procedures 
++ key organizational members
++ critical incidents
+
+
+
+---
+
+## How does Culture Affect Projects?
+
++ Department interaction
+
+  Cultures favoring cooperation between functional groups and new projects are much more successful than those that adopt a disinterested or even adversarial relationship.
+
++ Employee commitment to goals
+
+  Projects depend on the commitment and motivation of the team members.
+
+  Team members have to understand the why in order to be motivated.
+
++ Project planning
+
+  "Padding" of duration estimates when it is not accepted to be late, but to plan poorly
+
++ Performance evaluation
+
+  When a culture sends the signal that the goal of the firm is to create innovative new products, it reinforces a project management culture that is aggressive and offers potentially high payoffs (and the occasional significant loss!). 
+
+---
+
+## Category of project
+
+1. capital project
+2. Revenue generating project
+
+---
+
+## People
+
+1. board pf director
+2. vice president
+3. directors
+4. director manager
+
+Select mission / project
+
+---
+
+# Selection Model 
+
+## Checklist 
+
+![Imgur](http://i.imgur.com/v7VpDAi.png)
+
+  
+
+## simple scoring model
+
+![Imgur](http://i.imgur.com/aNRGhvI.png)
+
+## Profile model
+
+![Imgur](http://i.imgur.com/5hkbswE.png)
+
+high return, high risk
+
+project selection should under the **line**, -- efficient frontier
+
+1. risk should not above the maximum desired risk
+2. return should not less than Minimum desired return
+
+rate of return / total revenue
+
+margin or predicted
+
+## Net present value
+
+## Internal rate return
+
+
+
+Public-Private Partnership (P3) eg:　Montreal bad project management working on holiday
 
